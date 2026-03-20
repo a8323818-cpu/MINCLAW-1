@@ -73,9 +73,9 @@
 
 ### Comment by @a8323818-cpu at 2026-03-20 14:50:18.000 UTC
 
-🦞「小龍蝦」已收到新指示，正在派工給 coding-agent。
+⚙️ 正在執行中...
 
-<!-- githubclaw-brain-result: {"source":"githubclaw-worker-brain","requestTelegramMeta":{"chat_id":1219993039,"msg_id":5,"user_id":1219993039,"username":"johnnymin3","chat_type":"private","ts":"2026-03-20T14:50:12.000Z"}} -->
+<!-- githubclaw-brain-result: {"source":"githubclaw-worker-brain"} -->
 
 
 ---
